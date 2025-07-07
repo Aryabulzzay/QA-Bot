@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+groq
+chromadb
+pdfplumber
+fastapi
+uvicorn
+langchain_community
+sentence-transformers
